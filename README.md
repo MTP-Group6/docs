@@ -19,9 +19,9 @@
 ## 小组成员和分工
 |姓名|学号|分工|
 |---|---|---|
-|[李雅琪](https://github.com/liyaqi2024)|||
-|[卞卡](https://github.com/bkk513)|||
-|[李润泽](https://github.com/runze7442)|||
+|[李雅琪](https://github.com/liyaqi2024)|2220030109|项目部署、管理与测试|
+|[卞卡](https://github.com/bkk513)|2212190326|前端开发|
+|[李润泽](https://github.com/runze7442)|2220030107|后端开发|
 
 ## 项目技术选型
 
