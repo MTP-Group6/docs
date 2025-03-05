@@ -128,7 +128,7 @@ gantt
     title 高仿 B 站项目计划
     dateFormat  YYYY-MM-DD
     section 需求分析
-    需求分析               :a1, 2023-10-01, 7d
+    需求分析               :a1, 2025-2-26, 7d
     section 技术选型
     技术选型               :a2, after a1, 7d
     section 前端开发
