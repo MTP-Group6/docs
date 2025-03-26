@@ -1,0 +1,107 @@
+info:
+  title: API 文档
+  version: 1.0.0
+openapi: 3.0.0
+paths:
+  /api/v1/auth/captcha:
+    get:
+      parameters:
+      - in: query
+        name: 示例1-请求报文
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
+  /api/v1/auth/login:
+    post:
+      parameters:
+      - in: query
+        name: 示例1-请求报文
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
+  /api/v1/auth/logout:
+    post:
+      parameters:
+      - in: query
+        name: 示例1-请求报文
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
+  /api/v1/auth/refresh:
+    post:
+      parameters:
+      - in: query
+        name: 示例1-请求报文
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
+  /api/v1/auth/register:
+    post:
+      parameters:
+      - in: query
+        name: 示例1-请求报文
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
+  /api/v1/statistics/users:
+    get:
+      parameters:
+      - in: query
+        name: 示例1-请求报文
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
+  /api/v1/users/me:
+    get:
+      parameters:
+      - in: query
+        name: 示例1-请求报文
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
+  /api/v1/users/user12345:
+    get:
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
+  /api/v1/videos/vid12345/viewers:
+    get:
+      parameters:
+      - in: query
+        name: 获取TS文件
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: 成功
+      summary: API 描述
