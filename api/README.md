@@ -2,7 +2,7 @@
 
 ## RESTful API
 
-本项目采用 OpenAPI 规范定义 RESTful API，详情参见 [openapi.yaml](https://github.com/MTP-Group6/docs/blob/main/api/openai.yaml)，API 文档可在线查看：[openapi.md](./docs/api/openapi.md)。
+本项目采用 OpenAPI 规范定义 RESTful API，详情参见 [openapi.yaml](https://github.com/MTP-Group6/docs/blob/main/api/openai.yaml)，API 文档可在线查看：[openapi.md](https://github.com/MTP-Group6/docs/blob/main/api/openapi.md)。
 
 ## 1. 资源关系
 
