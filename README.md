@@ -39,17 +39,10 @@ graph TB
         B --> D[Pinia]
         B --> E[Axios]
         B --> F[打包工具]
-        F --> G[Webpack]
         F --> H[Vite]
     end
 
-    subgraph "部署"
-        I[前端部署] --> J[Nginx]
-        K[后端部署] --> L[Express]
-    end
-
     A --> B
-    F --> I
 ```
 
 ### 后端
